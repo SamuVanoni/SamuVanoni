@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F00&size=30&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Samuel+Vanoni+e+tenho+19+anos;Sou+de+SP,+Taubaté;E+estudo+desenvolvimento+web+por+conta+própria;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamuVanoni&show_icons=true&count_private=true&hide_border=true&title_color=F00&icon_color=F00&text_color=c9d1d9&bg_color=0d1117" alt="Samuel Vanoni github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuVanoni&layout=compact&hide_border=true&title_color=F00&text_color=F00&bg_color=0d1117" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0&size=30&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Samuel+Vanoni+e+tenho+19+anos;Sou+de+SP,+Taubaté;E+estudo+desenvolvimento+web+por+conta+própria;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+ 
+![SamuVanoni GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuVanoni&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuVanoni&theme=highcontrast)](https://github.com/SamuVanoni/github-readme-stats)
 
 ##
 
