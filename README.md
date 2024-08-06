@@ -1,27 +1,39 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0&size=30&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Samuel+Vanoni+e+tenho+20+anos;Sou+de+SP,+Taubaté;E+estudo+desenvolvimento+web+por+conta+própria;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
- 
-![SamuVanoni GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuVanoni&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuVanoni&theme=highcontrast)](https://github.com/SamuVanoni/github-readme-stats)
+<h3 align="center">
+ Seja bem-vindo, meu chamo Samuel Vanoni.
+ <br>
+ Atualmente sou estagiário de AI&ML na Compass UOL
+ <br>
+ e estou no 2° período de Sistemas de Informação na UFLA.
+</h3>
 
-##
-
-<div> 
-  <a href="https://wa.me/+5512996317649" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<div align="center"> 
   <a href="https://www.linkedin.com/in/samuelvanoni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/samuvanoni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:samu.prog00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <a href="https://instagram.com/samuvanoni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-### Skills:
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+## 🔧 Skills
+<div align="center">
+ 
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-### Ferrametas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+## &#x1f4c8; GitHub Stats
 
+<div align="center" style="display:flex;flex-direction:column">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuVanoni&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuVanoni&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuVanoni&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuVanoni&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamuVanoni&theme=yeblu&utcOffset=8)
+
+</div>
