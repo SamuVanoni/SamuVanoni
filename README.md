@@ -1,5 +1,5 @@
 <h3 align="center">
- Seja bem-vindo, meu chamo Samuel Vanoni.
+ Seja bem-vindo, me chamo Samuel Vanoni.
  <br>
  Atualmente sou estagiário de AI&ML na Compass UOL
  <br>
