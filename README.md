@@ -3,7 +3,7 @@
  <br>
  Atualmente sou estagiário de AI&ML na Compass UOL
  <br>
- e estou no 2° período de Sistemas de Informação na UFLA.
+ e estou no 3° período de Sistemas de Informação na UFLA.
 </h3>
 
 <div align="center"> 
