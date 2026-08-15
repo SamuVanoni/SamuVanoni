@@ -1,42 +1,46 @@
 <h1 align="center">Samuel Vanoni</h1>
 
 <p align="center">
-  Desenvolvedor Backend Python &middot; FastAPI &middot; PostgreSQL &middot; Docker &middot; Linux
+  <sub>Desenvolvedor Backend Python &middot; Taubaté, SP</sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelvanoni/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:samu.prog00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    <img src="https://img.shields.io/badge/E--mail-333333?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://www.even3.com.br/anais/xx-congresso-extensao-ufla/1294118-projeto-canaril--implementacao-de-funcionalidades-de-cadastro-de-atividades-cadastro-de-funcionarios-e-integrac/">
+    <img src="https://img.shields.io/badge/Publica%C3%A7%C3%A3o-2E7D32?style=flat-square&logo=googlescholar&logoColor=white" alt="Publicação">
   </a>
 </p>
 
 ---
 
-Construo sistemas do modelo de dados ao deploy. Cursando Sistemas de Informação na UFLA,
-com as disciplinas obrigatórias concluídas.
+> [!IMPORTANT]
+> **Primeiro autor** de trabalho publicado nos [Anais do XX Congresso de Extensão da UFLA](https://www.even3.com.br/anais/xx-congresso-extensao-ufla/1294118-projeto-canaril--implementacao-de-funcionalidades-de-cadastro-de-atividades-cadastro-de-funcionarios-e-integrac/) (2025) — sistema de gestão do **Canaril Experimental da UFLA**, unidade de pesquisa em parceria com a Federação Ornitológica do Brasil.
+>
+> Fiz desde a modelagem dos dados até subir no servidor Linux da faculdade: banco relacional com cerca de 18 tabelas, API REST, aplicativo móvel integrado à API e deploy via SSH.
+>
+> `Python` · `FastAPI` · `MySQL` · `Flutter` · `Linux`
 
-Primeiro autor de trabalho publicado nos [anais do XX Congresso de Extensão da UFLA](https://www.even3.com.br/anais/xx-congresso-extensao-ufla/1294118-projeto-canaril--implementacao-de-funcionalidades-de-cadastro-de-atividades-cadastro-de-funcionarios-e-integrac/)
-(2025), sobre o sistema de gestão que desenvolvi para o **Canaril Experimental da UFLA** —
-unidade de pesquisa em canaricultura mantida em parceria com a Federação Ornitológica do
-Brasil. Modelei o banco relacional em MySQL, construí a API REST em FastAPI, desenvolvi o
-aplicativo em Flutter integrado à API e fiz o deploy em servidor Linux institucional.
-
-Atualmente desenvolvo, sozinho, um SaaS multi-tenant de gestão de treinamentos para RH
-industrial — com isolamento de dados entre empresas, controle de acesso por papel (RBAC),
-migrations versionadas em Alembic e design system próprio publicado como pacote.
+<table>
+  <tr><th>Foco</th><td>Backend em Python — modelagem de dados, API REST e deploy</td></tr>
+  <tr><th>Formação</th><td>Sistemas de Informação · UFLA · disciplinas obrigatórias concluídas</td></tr>
+  <tr><th>Certificação</th><td>AWS Certified Cloud Practitioner (CLF-C02)</td></tr>
+</table>
 
 ### Stack
 
-|  |  |
-|---|---|
-| **Backend** | Python · FastAPI · Pydantic · SQLAlchemy · Alembic · APIs REST |
-| **Bancos** | PostgreSQL · MySQL |
-| **Front / Mobile** | Next.js · TypeScript · React · Flutter |
-| **Infra** | Docker · Linux · Git · AWS (Lambda, S3, EC2, RDS) |
+<table>
+  <tr><th>Backend</th><td>Python · FastAPI · Pydantic · SQLAlchemy · Alembic</td></tr>
+  <tr><th>Bancos</th><td>PostgreSQL · MySQL</td></tr>
+  <tr><th>Front / Mobile</th><td>Next.js · TypeScript · React · Flutter</td></tr>
+  <tr><th>Infra</th><td>Docker · Linux · Git · AWS</td></tr>
+</table>
 
-### Certificação
-
-AWS Certified Cloud Practitioner — CLF-C02
+> [!NOTE]
+> Desenvolvo, sozinho, um **SaaS multi-tenant de gestão de treinamentos para RH industrial** — isolamento de dados entre empresas, controle de acesso por papel (RBAC), migrations versionadas em Alembic e design system próprio publicado como pacote.
+>
+> `Python` · `FastAPI` · `PostgreSQL` · `Next.js` · `TypeScript` · `Docker`
