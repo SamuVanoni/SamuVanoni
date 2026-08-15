@@ -1,38 +1,42 @@
-<h3 align="center">
- Seja bem-vindo, me chamo Samuel Vanoni.
- <br>
- Atualmente, sou Programador Júnior na área de Data & AI, na Compass UOL
- <br>
- e estou no 4° período de Sistemas de Informação na UFLA.
-</h3>
+<h1 align="center">Samuel Vanoni</h1>
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/samuelvanoni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:samu.prog00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/samuvanoni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+  Desenvolvedor Backend Python &middot; FastAPI &middot; PostgreSQL &middot; Docker &middot; Linux
+</p>
 
-## 🔧 Skills
-<div align="center">
- 
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuelvanoni/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:samu.prog00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
 
-## &#x1f4c8; GitHub Stats
+---
 
-<div align="center" style="display:flex;flex-direction:column">
+Construo sistemas do modelo de dados ao deploy. Cursando Sistemas de Informação na UFLA,
+com as disciplinas obrigatórias concluídas.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuVanoni&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuVanoni&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuVanoni&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuVanoni&theme=yeblu)
+Primeiro autor de trabalho publicado nos [anais do XX Congresso de Extensão da UFLA](https://www.even3.com.br/anais/xx-congresso-extensao-ufla/1294118-projeto-canaril--implementacao-de-funcionalidades-de-cadastro-de-atividades-cadastro-de-funcionarios-e-integrac/)
+(2025), sobre o sistema de gestão que desenvolvi para o **Canaril Experimental da UFLA** —
+unidade de pesquisa em canaricultura mantida em parceria com a Federação Ornitológica do
+Brasil. Modelei o banco relacional em MySQL, construí a API REST em FastAPI, desenvolvi o
+aplicativo em Flutter integrado à API e fiz o deploy em servidor Linux institucional.
 
-</div>
+Atualmente desenvolvo, sozinho, um SaaS multi-tenant de gestão de treinamentos para RH
+industrial — com isolamento de dados entre empresas, controle de acesso por papel (RBAC),
+migrations versionadas em Alembic e design system próprio publicado como pacote.
+
+### Stack
+
+|  |  |
+|---|---|
+| **Backend** | Python · FastAPI · Pydantic · SQLAlchemy · Alembic · APIs REST |
+| **Bancos** | PostgreSQL · MySQL |
+| **Front / Mobile** | Next.js · TypeScript · React · Flutter |
+| **Infra** | Docker · Linux · Git · AWS (Lambda, S3, EC2, RDS) |
+
+### Certificação
+
+AWS Certified Cloud Practitioner — CLF-C02
